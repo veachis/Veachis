@@ -78,7 +78,7 @@
          "GameEngine": "Unity & Unreal Engine",
          "ArtStyle": "Pixel Art",
          "ProgrammingLanguage": "C# & C++",
-         "Games": ["Dark Souls", "Elden Ring", "Hollow Knight, "Terraria""],
+         "Games": ["Dark Souls", "Elden Ring", "Hollow Knight, "Terraria"],
          "Music": {
             "Genres": ["Hard Techno", "Trap", "Acid"],
             "Songs": ["Fantasm - Venom", "Holy Priest - Vielleicht", "REDZED - Counting Days Till Suicide"],

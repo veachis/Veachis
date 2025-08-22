@@ -1,24 +1,12 @@
 <p align="center">
   <a href="https://www.instagram.com/veachisx/">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWYzNHJyZXRpM3MxMWR5cXFtb3Y5cmRzMTF4bGx5cHN0cnBmZ2xyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28AEi3TIvtSP6/giphy.gif" alt="Banner">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s5eTZocTByMTMwdTZhNmkwaWdjNnd3dndzd2RoeWJidWk1OHhiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" alt="Banner">
   </a>
 </p>
 
-<h1 align="center">Arda Yildirim</h1>
+<h1 align="center">Arda Yıldırım</h1>
 
 <h5 align="center">Freelance, Game Developer, Software</h5>
-
-<p align="center">
-	<a href="https://gist.github.com/veachis">
-		<img src="https://img.shields.io/badge/-Gists-000?style=for-the-badge&logo=Github&logoColor=white" />
-	</a>
-	<a href="https://stackoverflow.com/users/29424880/veachis?tab=profile">
-		<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-	</a>	
-	<a href="https://www.linkedin.com/in/arda-yıldırım-783798244/">
-		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>	
-</p>
 
 <br>
 
@@ -36,11 +24,6 @@
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </picture>
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-	<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react%2DJS&logoColor=%2361DAFB" alt="React-JS" />
-</picture>
-<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
@@ -49,11 +32,6 @@
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white">
-	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </picture>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -97,14 +75,14 @@
       "CurrentFocus": "Creating engaging and immersive games",
       "HowDoISeeMyselfIn5Years": "Running a successful indie game studio",
       "Favorites": {
-         "GameEngine": "Unity",
+         "GameEngine": "Unity & Unreal Engine",
          "ArtStyle": "Pixel Art",
-         "ProgrammingLanguage": "C#",
-         "Games": ["Stardew Valley", "Terraria", "Hollow Knight"],
+         "ProgrammingLanguage": "C# & C++",
+         "Games": ["Dark Souls", "Elden Ring", "Hollow Knight, "Terraria""],
          "Music": {
-            "Genres": ["Lo-fi", "Synthwave", "Indie"],
-            "Songs": ["Disasterpeace - Home", "Lena Raine - Resurrections", "Carpenter Brut - Turbo Killer"],
-            "Artists": ["Disasterpeace", "Lena Raine", "Carpenter Brut"]
+            "Genres": ["Hard Techno", "Trap", "Acid"],
+            "Songs": ["Fantasm - Venom", "Holy Priest - Vielleicht", "REDZED - Counting Days Till Suicide"],
+            "Artists": ["Fantasm", "Holy Priest", "REDZED"]
          }
       }
    },
@@ -113,7 +91,7 @@
       "DadJokeOfTheDay": "Why did the game developer go broke? Because he used up all his cache!",
       "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "Not today!",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4t0m5.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/28nlam.jpg"
    }
 }
 

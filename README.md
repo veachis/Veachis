@@ -2,7 +2,7 @@
 
 Hi! I’m Arda Yıldırım, a first-year Computer Science student at the Polish-Japanese Academy of Information Technology. I love creating projects fueled by my passion for game and web development, embedded systems, and technology in general.
 
-I started coding and building things as a child, learning from my dad. Since then, I’ve been involved in many exciting projects, including Tete Mining, Haron Network, and Vechix Hosting. These experiences helped me gain hands-on knowledge in both software and hardware, as well as valuable practical experience.
+I started coding and building things as a child, learning from my dad. Since then, I’ve been involved in many exciting projects, including Tete Mining and Haron Network. These experiences helped me gain hands-on knowledge in both software and hardware, as well as valuable practical experience.
 
 On the game development side, I’ve been running Minecraft servers since 2020, which was my first real step into programming.
 
